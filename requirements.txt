@@ -37,7 +37,7 @@ django-sortedm2m==3.0.2   # via aldryn-common
 django-spurl==0.6.7       # via aldryn-search
 django-standard-form==1.1.1  # via aldryn-search
 django-storages==1.10.1   # via django-s3-folder-storage
-django-treebeard==4.3.1   # via -r requirements.in, django-cms
+django-treebeard==4.4     # via -r requirements.in, django-cms
 django==2.2.16            # via -r requirements.in, aldryn-boilerplates, django-appconf, django-classy-tags, django-cms, django-csp, django-filer, django-formtools, django-haystack, django-mptt, django-pagedown, django-polymorphic, django-redis, django-reversion, django-sekizai, django-standard-form, django-storages, django-treebeard, easy-thumbnails, jsonfield
 djangocms-admin-style==2.0.2  # via -r requirements.in, django-cms
 djangocms-attributes-field==2.0.0  # via djangocms-file, djangocms-link, djangocms-picture
